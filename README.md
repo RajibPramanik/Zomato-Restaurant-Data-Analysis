@@ -56,7 +56,7 @@ Feel free to contribute to this project! Fork the repository and create a pull r
 
 ## 🌟 **Author**  
 **[RajibLochan Pramanik]**  
-- 📧 [Gmail](pramanikrajib715@gmail.com) 
+- 📧 pramanikrajib715@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/rajiblochan-pramanik/)  
 
 ---
