@@ -48,21 +48,6 @@ This project analyzes Zomato restaurant data to uncover insights about restauran
 
 ---
 
-## 💡 **How to Run**  
-1. Clone the repository:  
-```bash
-git clone https://github.com/your-username/zomato-analysis.git
-```
-2. Install dependencies:  
-```bash
-pip install -r requirements.txt
-```
-3. Run the script:  
-```bash
-python analysis.py
-```
-
----
 
 ## 🤝 **Contributing**  
 Feel free to contribute to this project! Fork the repository and create a pull request.  
@@ -76,7 +61,3 @@ Feel free to contribute to this project! Fork the repository and create a pull r
 
 ---
 
-## 📝 **License**  
-This project is licensed under the **MIT License**.  
-
----
